@@ -6,6 +6,10 @@ This digitally created book is an attempt to aggregate, document, and share my e
 
 The views expressed in this book are solely those of the author and do not represent the views of any theaters or parties that may be mentioned within.
 
+## Reading this book online
+
+An online reader for this book can be found at [https://mcanlas.gitbooks.io/improv-a-living-guide/content/](https://mcanlas.gitbooks.io/improv-a-living-guide/content/).
+
 ## About the author
 
 Mark Canlas is a software engineer and improvisor living in New York City. He has studied improv and musical improv at UCB, Magnet Theater, The PIT, and Reckless Theatre.
