@@ -4,6 +4,8 @@ As a student of improv, I can't help but notice the abundance of knowledge passe
 
 This digitally created book is an attempt to aggregate, document, and share my experiences with improv and explore the world of open source books. Think of it less as a traditional book that makes sense from front to back and rather more a living, ever-evolving collection of notes and scattered thoughts arranged into book format.
 
+The views expressed in this book are solely those of the author and do not represent the views of any theaters or parties that may be mentioned within.
+
 ## About the author
 
 Mark Canlas is a software engineer and improvisor living in New York City. He has studied improv and musical improv at UCB, Magnet Theater, The PIT, and Reckless Theatre.
