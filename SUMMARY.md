@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Improv
+* [Improv](improv.md)
 * [Exercises](exercises.md)
 * [Musical Improv](musical-improv.md)
 * [Teaching](teaching.md)

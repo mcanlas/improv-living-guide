@@ -22,11 +22,11 @@ Also, there are so many facets to musical improv. Musicality is just one of them
 
 I liken musical improv to juggling five balls when you can only handle three. When you first do it, it can be stressful trying to balance dancing, singing, listening, support work, and what not all at the same time. It feels very overwhelming. Eventually you learn to mentally compartmentalize and it does get easier with time and practice.
 
+One time I did an entire group number and completely forgot to sing.
+
 ## Improv
 
 For a while I was loathe to admit that musical improv is still very much rooted in improv. When the accompaniment isn't playing, you should still have good scene work.
 
 Any amount of straight improv experience is great to have going into a musical improv class. It's not required, but it will greatly enhance your experience \(since you won't be learning how to make stuff up AND learning how to sing\).
-
-
 
