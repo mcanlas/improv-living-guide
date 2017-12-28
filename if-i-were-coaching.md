@@ -20,3 +20,7 @@ Novices seem to feel this pressure to invent or say wacky things to inject funni
 
 A lot of people get into verbal diarrhea when they panic. This tick can be particularly unhelpful during the setting of a chorus. One challenge I like posing to people is how much can they sing with as few words as possible, most likely in an AAAA format. A simple lyric still leaves a lot of room for melodic and dynamic choices.
 
+## Establish points of view faster.
+
+Textbook musical trios usually have three distinct points of view. I sometimes see trio-oriented scenes devolve into much longer, meandering scenes. If the improvisors know that the scene on deck is meant to be a trio \(as in the fairy tail narrative\), then the goal should be to establish three points of view as fast as possible.
+
