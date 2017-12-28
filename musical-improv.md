@@ -30,3 +30,9 @@ For a while I was loathe to admit that musical improv is still very much rooted 
 
 Any amount of straight improv experience is great to have going into a musical improv class. It's not required, but it will greatly enhance your experience \(since you won't be learning how to make stuff up AND learning how to sing\).
 
+## Regular vs musical
+
+Musical. There's something very magical and fun about being able to burst into song.
+
+There's also a level of dynamism and commitment and teamwork that I would see more often in a musical show than in a regular show. My dream is to either watch or play straight scenes with that level of engagement.
+
