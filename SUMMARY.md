@@ -8,6 +8,6 @@
 * [If I Were Coaching](if-i-were-coaching.md)
 * [New York City](new-york-city.md)
 * [My Kind of Improv](my-kind-of-improv.md)
-* [Favorite shows](favorite-shows.md)
+* [Favorite Shows](favorite-shows.md)
 * [Colophon](colophon.md)
 
