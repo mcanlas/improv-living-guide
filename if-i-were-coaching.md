@@ -2,6 +2,12 @@
 
 I notice a lot of the same behavior and situations among more novice improvisors. I don't have any experience coaching, but if I had the opportunity to, here's what I would have to say.
 
+## Face the audience.
+
+One of the most jarring things in novice improvising is not understanding blocking or lines of sight. When doing with other people, the orientation should almost always be lengthwise so that the audience can see everyone. No one should be standing in front of someone else and no one's back should be to the audience.
+
+A more advanced version of this is if there is a wall that objects need to be pulled from, the wall should be the audience wall, not the back wall. This style minimizes how much of your back the audience sees and gives them more insight into what objects you are getting.
+
 ## Listen more.
 
 A lot of the way novice improvisors play is probably in the mindset of "what can I bring to the table". It's very active. But sometimes it can get off the rails if all the improvisors in the scene are just contributing but not reacting. One very simple rule which I think should be enforced is **don't talk over one another**. If one performer is talking over another, there's a high likelihood that the second person isn't listen to the first and is just rushing to get their deal out.
@@ -19,6 +25,8 @@ Novices seem to feel this pressure to invent or say wacky things to inject funni
 ## Commit harder.
 
 If there's one thing that separates mediocre improv from transcendent improv, it's commitment. Playing emotionally detached \(as a character\) seems to be a weak move most of the time. And playing detached as an actor is just bad acting.
+
+This also applies to object work. Nothing worse than seeing an impossibly tight grip on an object or having it vanish and reappear because the improvisor is just letting it go randomly.
 
 It's hard to play musical scenes, especially those involving singing and dancing, with less commitment. Musical improv teachers have said, even if you do bad ballet, you need to commit hard. No one wants to watch self-aware, apologetic ballet \("sorry I'm so bad at this"\).
 
