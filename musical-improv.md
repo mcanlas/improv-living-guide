@@ -24,6 +24,12 @@ I liken musical improv to juggling five balls when you can only handle three. Wh
 
 One time I did an entire group number and completely forgot to sing.
 
+* Melody writing
+* Lyric writing
+* Choreography \(leading, following\)
+* Harmonizing
+* Support work, listening
+
 ## Improv
 
 For a while I was loathe to admit that musical improv is still very much rooted in improv. When the accompaniment isn't playing, you should still have good scene work.
