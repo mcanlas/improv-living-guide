@@ -44,5 +44,7 @@ Including but not limited to duets with harmony, universal choruses, strong tabl
 
 In general, a musical improv team commits harder and faster than a normal team. Straight improv rarely hits high highs where as musical improv is very effective very often.
 
+A good musical improv team is necessarily maintaining a high level of synchronicity and tackling things that are harder than normal improv \(lyric writing, melody writing, choreography, etc\).
+
 The "highlights" thread for musical improv is always much more boisterous and elaborate than the highlights thread for other nights.
 
