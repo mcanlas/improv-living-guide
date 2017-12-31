@@ -6,9 +6,9 @@ A Magnet teacher once lamented, someone saying "I'm not into improv" is like say
 
 Compare the following lines.
 
-> You're a doctor. I need help.
+> A: You're a doctor. I need help.
 >
-> Doc, gimme the news.
+> B: Doc, gimme the news.
 
 The first is something a novice improvisor might say. It's effective in establishing a reality and a relationship. But it just sounds stilted. It's improv-speak.
 
@@ -22,9 +22,9 @@ Here's an initiation.
 
 Here are two responses.
 
-> Hi. We went to high school together.
+> A: Hi. We went to high school together.
 >
-> Class of 2004! AHHH!!!!
+> B: Class of 2004! AHHH!!!!
 
 The first response is a very straight "yes and" but it's more of just a "yes". The two players have firmly established their relationship to the audience and one another. However, it's boring and lacks a lot of "and".
 
