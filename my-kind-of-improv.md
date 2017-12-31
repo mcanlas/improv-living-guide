@@ -40,5 +40,5 @@ Now we've established to everyone that we are not on the same page and need to i
 
 In general, a musical improv team commits harder and faster than a normal team. Straight improv rarely hits high highs where as musical improv is very effective very often.
 
-The "highlights" thread for musical improv is always much more boistrous and elaborate than the highlights thread for other nights.
+The "highlights" thread for musical improv is always much more boisterous and elaborate than the highlights thread for other nights.
 
