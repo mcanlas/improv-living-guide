@@ -7,7 +7,7 @@ A Magnet teacher once lamented, someone saying "I'm not into improv" is like say
 Compare the following lines.
 
 > You're a doctor. I need help.
-
+>
 > Doc, gimme the news.
 
 The first is something a novice improvisor might say. It's effective in establishing a reality and a relationship. But it just sounds stilted. It's improv-speak.
@@ -23,7 +23,7 @@ Here's an initiation.
 Here are two responses.
 
 > Hi. We went to high school together.
-
+>
 > Class of 2004! AHHH!!!!
 
 The first response is a very straight "yes and" but it's more of just a "yes". The two players have firmly established their relationship to the audience and one another. However, it's boring and lacks a lot of "and".
@@ -36,13 +36,9 @@ Now we've established to everyone that we are not on the same page and need to i
 
 ## Degree of difficulty
 
-
-
 ## Musical improv
 
 In general, a musical improv team commits harder and faster than a normal team. Straight improv rarely hits high highs where as musical improv is very effective very often.
 
 The "highlights" thread for musical improv is always much more boistrous and elaborate than the highlights thread for other nights.
-
-
 
