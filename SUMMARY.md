@@ -9,5 +9,5 @@
 * [New York City](new-york-city.md)
 * [My Kind of Improv](my-kind-of-improv.md)
 * [Favorite shows](favorite-shows.md)
-* [Favorite shows](favorite-shows.md)
+* [Colophon](colophon.md)
 
