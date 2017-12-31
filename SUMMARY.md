@@ -7,5 +7,6 @@
 * [Teaching](teaching.md)
 * [If I Were Coaching](if-i-were-coaching.md)
 * [New York City](new-york-city.md)
+* [My Kind of Improv](my-kind-of-improv.md)
 * [Colophon](colophon.md)
 
