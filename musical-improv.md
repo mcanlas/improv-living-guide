@@ -14,7 +14,7 @@ People underestimate how much musicality is built into their bodies and minds \(
 
 And to anyone that insists, "what if I'm tone-deaf?" I've only met one tone deaf person in my entire life. That phrase is over-used. People by and large are not tone-deaf.
 
-People may need to work on staying on rhythm.
+People may need to work on listening for and staying on rhythm.
 
 Also, there are so many facets to musical improv. Musicality is just one of them. Some of the best musical improvisors I've seen I would not describe as the strongest musically, so it doesn't matter.
 
