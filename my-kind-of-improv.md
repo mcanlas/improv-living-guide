@@ -38,6 +38,8 @@ Now we've established to everyone that we are not on the same page and need to i
 
 If improv were judged like an Olympic sport, "degree of difficulty" would be one of the things we measure. I think really great, entertaining improv has some element of magic or difficulty to it. It's usually the parts of the show that makes those not in the know exclaim, "that was planned, right?".
 
+Including but not limited to duets with harmony, universal choruses, strong tableaus, and nicely wrapped endings.
+
 ## Musical improv
 
 In general, a musical improv team commits harder and faster than a normal team. Straight improv rarely hits high highs where as musical improv is very effective very often.
