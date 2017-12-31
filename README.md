@@ -2,7 +2,7 @@
 
 As a student of improv, I can't help but notice the abundance of knowledge passed around the improv community. Most of it never gets written down, or when it does it remains in one student's notebook never to been seen again.
 
-This digitally created book is an attempt to aggregate, document, and share my experiences with improv. And it gives me an excuse to explore the world of open source books. Think of it less as a traditional book that makes sense from front to back and more as a living, ever-evolving collection of notes and scattered thoughts arranged into book format.
+This digitally created book is an attempt to aggregate, document, and share my experiences with improv. And it gives me an excuse to explore the world of open source books. Think of it less as a traditional book but more as a living, ever-evolving collection of notes and scattered thoughts arranged into book format.
 
 The views expressed in this book are solely those of the author and do not represent the views of any theaters or parties that may be mentioned within.
 
