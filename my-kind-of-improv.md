@@ -12,7 +12,7 @@ Compare the following lines.
 
 The first is something a novice improvisor might say. It's effective in establishing a reality and a relationship. But it just sounds stilted. It's improv-speak.
 
-The second is much more natural-sounding. But the trap here is that it requirements much more interpretation on the listener's end. If you don't have a sharp partner who is picking up what you're laying down, lines like this might get you in trouble. As an audience member, I always much prefer the most organic delivery possible.
+The second is much more natural-sounding. But the trap here is that it requires much more interpretation on the listener's end. If you don't have a sharp partner who is picking up what you're laying down, lines like this might get you in trouble. As an audience member, I always much prefer the most organic delivery possible.
 
 ## Fast listening
 
