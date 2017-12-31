@@ -1,6 +1,6 @@
 # Favorite Shows
 
-Here are some my favorite shows in the city. Spoiler alert, they're all Magnet!
+Here are some my favorite shows in the city. Spoiler alert, they're all at the Magnet Theater!
 
 ## Musical Megawatt
 
