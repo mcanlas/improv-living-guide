@@ -16,6 +16,12 @@ I would bet money that scenes that don't go as well suffer from a lack of clear 
 
 Novices seem to feel this pressure to invent or say wacky things to inject funniness into scenes, rather than discovering what is fun or using a much more organic contribution. I think coaching students to default to playing real and reacting realistically will lead to more palatable scenes and even stronger performers in the future.
 
+## Commit harder.
+
+If there's one thing that separates mediocre improv from transcendent improv, it's commitment. Playing emotionally detached \(as a character\) seems to be a weak move most of the time. And playing detached as an actor is just bad acting.
+
+It's hard to play musical scenes, especially those involving singing and dancing, with less commitment. Musical improv teachers have said, even if you do bad ballet, you need to commit hard. No one wants to watch self-aware, apologetic ballet \("sorry I'm so bad at this"\).
+
 ## Simplify your choruses.
 
 A lot of people get into verbal diarrhea when they panic. This tick can be particularly unhelpful during the setting of a chorus. One challenge I like posing to people is how much can they sing with as few words as possible, most likely in an AAAA format. A simple lyric still leaves a lot of room for melodic and dynamic choices.
