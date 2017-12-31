@@ -2,7 +2,7 @@
 
 ## Fear
 
-On my first day of musical improv class, the teacher asked us why we signed up. The number one response, maybe 80% of the people, was "fear". The rationale being, I'm intensely afraid of performing in public. If you can face your fear, what can't you do?
+On my first day of musical improv class, the teacher asked us why we signed up. The number one response, maybe 80% of the people, was "fear". A lot of people wanted to confront their fear in style!
 
 ## Musical background
 
