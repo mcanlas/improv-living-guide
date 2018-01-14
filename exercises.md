@@ -1,5 +1,13 @@
 # Exercises
 
+## Pointies
+
+Everyone stands in a circle. The starting person points to someone and says a word. The next person points to another person and says another word. Repeat until a pattern is established with where the words are coming from and that everyone has a word and a person to point to \(should repeat in a circle\).
+
+Reset and repeat with another set of words and different targets.
+
+Try to sustain two sets of words simultaneously. Up to three.
+
 ## Class callbacks
 
 During a recent UCB class, we used the last 10 minutes of class to do callback scenes inspired by anything that happened during that class. I think this is a great way to introduce the idea of callbacks and to have students exercise their memory muscle by having the callback window span the entire class.
