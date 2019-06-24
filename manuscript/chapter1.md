@@ -1,5 +1,7 @@
 # Chapter 1
 
+This is markdown now
+
 This is some default content for a new Leanpub book.
 
 You can download the manuscript folder containing the plain text files from which this book is generated. That way, you can see how everything in this book is actually written.
