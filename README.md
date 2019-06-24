@@ -6,9 +6,21 @@ This digitally created book is an attempt to aggregate, document, and share my e
 
 The views expressed in this book are solely those of the author and do not represent the views of any theaters or parties that may be mentioned within.
 
-## Reading this book online
+## Chapters
 
-An online reader for this book can be found at [https://mcanlas.gitbooks.io/improv-a-living-guide/content/](https://mcanlas.gitbooks.io/improv-a-living-guide/content/).
+* [Introduction](manuscript/README.md)
+* [Improv](manuscript/improv.md)
+* [Exercises](manuscript/exercises.md)
+* [Musical Improv](manuscript/musical-improv.md)
+* [Musical Exercises](manuscript/musical-exercises.md)
+* [Teaching](manuscript/teaching.md)
+* [If I Were Coaching](manuscript/if-i-were-coaching.md)
+* [New York City](manuscript/new-york-city.md)
+* [My Kind of Improv](manuscript/my-kind-of-improv.md)
+* [Favorite Shows](manuscript/favorite-shows.md)
+* [Memorable Scenes](manuscript/memorable-scenes.md)
+* [Musical Exercises](manuscript/musical-exercises.md)
+* [Colophon](manuscript/colophon.md)
 
 ## About the author
 
