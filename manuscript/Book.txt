@@ -1,5 +1,6 @@
 README.md
 improv.md
+stage.md
 listening.md
 exercises.md
 musical-improv.md

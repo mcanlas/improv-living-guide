@@ -30,6 +30,9 @@ on opportunities for discovery or at worst we aren't listening to what
 our scene partner is really saying (i.e. if the statement was an
 oblique suggestion to start a game).
 
+Exercise from Bianca: Do a spit take (i.e. extreme reaction) in
+response to some mundane response.
+
 ## Status fighting
 
 Many scenes can be boiled down into a status dynamic of high and low.
