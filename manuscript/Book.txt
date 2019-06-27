@@ -2,6 +2,7 @@ README.md
 improv.md
 stage.md
 listening.md
+improv-language.md
 object-work.md
 exercises.md
 narrative.md
