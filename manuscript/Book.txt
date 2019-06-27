@@ -3,6 +3,7 @@ improv.md
 exercises.md
 musical-improv.md
 musical-exercises.md
+common-mistakes.md
 teaching.md
 if-i-were-coaching.md
 new-york-city.md
