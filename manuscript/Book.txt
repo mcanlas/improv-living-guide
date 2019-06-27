@@ -4,6 +4,7 @@ stage.md
 listening.md
 object-work.md
 exercises.md
+narrative.md
 musical-improv.md
 musical-exercises.md
 common-mistakes.md
