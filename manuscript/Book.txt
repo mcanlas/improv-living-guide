@@ -16,4 +16,5 @@ my-kind-of-improv.md
 favorite-shows.md
 memorable-scenes.md
 musical-exercises.md
+style.md
 colophon.md
