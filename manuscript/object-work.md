@@ -2,14 +2,11 @@
 
 ## Heightening
 
-Important to subtly heighten certain parts of object work since object
-is fake.
+Important to subtly heighten certain parts of object work since object is fake.
 
 Touching it's surface features to inform the audience what shape it is.
 
-Giving it weight by slowing down your body motions to help indicate
-how big it is or what it is made out of. Animation tip: slow means
-heavy.
+Giving it weight by slowing down your body motions to help indicate how big it is or what it is made out of. Animation tip: slow means heavy.
 
 ## Ridiculousness
 
