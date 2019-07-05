@@ -1,6 +1,7 @@
 introduction.md
 improv.md
 stage.md
+initiations.md
 listening.md
 improv-language.md
 object-work.md
