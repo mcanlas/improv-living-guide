@@ -49,3 +49,7 @@ Boring scene content.
 ## Talking about future plans
 
 Similar to above. Replace in favor of active scenework (do the thing you are talking about and deal with the aftermath).
+
+## Being surprised
+
+There are times when it is okay to be surprised in a scene, but the difference is subtle. Most times, being surprised is the actor being hesitant of the idea. By default, all behaviors and gifts should be mundane and habitual. If it is revealed that a character loves sky diving, that is only a reveal to the audience, not to the characters on stage. Surprise as characters should only come after a foundation has been developed.
