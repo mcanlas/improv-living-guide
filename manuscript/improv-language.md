@@ -22,3 +22,10 @@ We shouldn't be subtle or nice unlike in real life. We need to pull the emotiona
 
 Using bombs like cancer or spaceships and reacting to them in an indifferent or jovial way.
 
+## Subtext
+
+Answering a question that wasn't asked.
+
+> A: Hey, what do you think of this dress?
+>
+> B: She doesn't want to get back with you.
