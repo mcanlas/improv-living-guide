@@ -5,6 +5,7 @@ initiations.md
 listening.md
 improv-language.md
 object-work.md
+relationships.md
 exercises.md
 narrative.md
 forms.md
