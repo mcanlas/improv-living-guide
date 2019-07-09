@@ -7,6 +7,7 @@ improv-language.md
 object-work.md
 relationships.md
 exercises.md
+mechanics.md
 narrative.md
 forms.md
 musical-improv.md
