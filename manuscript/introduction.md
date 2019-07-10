@@ -8,7 +8,7 @@ The views expressed in this book are solely those of the author and do not repre
 
 ## About the author
 
-Mark Canlas is a software engineer and improvisor living in New York City. He has studied improv and musical improv at UCB, Magnet Theater, The PIT, and Reckless Theatre.
+Mark Canlas is a software engineer and improvisor living in [New York City](new-york-city.md). He has studied improv and musical improv at UCB, Magnet Theater, The PIT, and Reckless Theatre.
 
 He has been featured in Magnet's Summer 2017 Circuit on Team Boomhauer and in Thank You For Coming Out, a show that celebrates the LGBTQ community.
 
