@@ -6,6 +6,7 @@ listening.md
 improv-language.md
 object-work.md
 relationships.md
+warmups.md
 exercises.md
 mechanics.md
 narrative.md
