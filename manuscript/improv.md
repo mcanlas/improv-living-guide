@@ -1,5 +1,7 @@
 # Improv
 
+Improv that feels hard to do as a performer will feel hard to watch by the audience.
+
 ## Unprepared
 
 One thing that struck me odd about intro to improv classes is that you get up to perform straightaway.  There's never any handholding about projecting your voice, where to look, how to stand.
