@@ -1,6 +1,6 @@
-# If I Were Coaching
+# General tips
 
-I notice a lot of the same behavior and situations among more novice improvisors. I don't have any experience coaching, but if I had the opportunity to, here's what I would have to say.
+I notice a lot of the same behavior and situations among more novice improvisors.
 
 ## Face the audience.
 

@@ -21,7 +21,7 @@ An open source book about improvised comedy and musical improv
 * [Hip-hop](manuscript/hip-hop.md)
 * [Common Mistakes](manuscript/common-mistakes.md)
 * [Teaching](manuscript/teaching.md)
-* [If I Were Coaching](manuscript/if-i-were-coaching.md)
+* [General tips](manuscript/general-tips.md)
 * [New York City](manuscript/new-york-city.md)
 * [My Kind of Improv](manuscript/my-kind-of-improv.md)
 * [Favorite Shows](manuscript/favorite-shows.md)

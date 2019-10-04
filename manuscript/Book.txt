@@ -16,7 +16,7 @@ musical-exercises.md
 hip-hop.md
 common-mistakes.md
 teaching.md
-if-i-were-coaching.md
+general-tips.md
 new-york-city.md
 my-kind-of-improv.md
 favorite-shows.md
