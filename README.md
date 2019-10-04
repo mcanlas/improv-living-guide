@@ -18,6 +18,7 @@ An open source book about improvised comedy and musical improv
 * [Forms](manuscript/forms.md)
 * [Musical Improv](manuscript/musical-improv.md)
 * [Musical Exercises](manuscript/musical-exercises.md)
+* [Hip-hop](manuscript/hip-hop.md)
 * [Common Mistakes](manuscript/common-mistakes.md)
 * [Teaching](manuscript/teaching.md)
 * [If I Were Coaching](manuscript/if-i-were-coaching.md)

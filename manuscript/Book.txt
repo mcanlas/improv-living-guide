@@ -13,6 +13,7 @@ narrative.md
 forms.md
 musical-improv.md
 musical-exercises.md
+hip-hop.md
 common-mistakes.md
 teaching.md
 if-i-were-coaching.md
