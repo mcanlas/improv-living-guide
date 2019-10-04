@@ -1,6 +1,5 @@
 package com.htmlism
 
-import better.files._
 import better.files.Dsl._
 import cats.effect._
 import cats.implicits._
@@ -16,7 +15,7 @@ object ReadmeWriterAlg {
   def apply[F[_]](implicit F: Sync[F]): ReadmeWriterAlg[F] =
     new ReadmeWriterAlg[F] {
       def write(toc: List[(String, String)]): F[Unit] =
-        for {
+        (for {
           readme <- read
         } yield {
           val newToc =
@@ -31,7 +30,7 @@ object ReadmeWriterAlg {
 
           file
             .write(payload)
-        }
+        }).void
 
       private def read =
         F.delay {

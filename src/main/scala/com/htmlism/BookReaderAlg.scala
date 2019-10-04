@@ -1,10 +1,8 @@
 package com.htmlism
 
-import better.files._
 import better.files.Dsl._
 import cats.effect._
 import cats.implicits._
-import mouse.any._
 
 trait BookReaderAlg[F[_]] {
   def readChapterHeadings: F[List[(String, String)]]
