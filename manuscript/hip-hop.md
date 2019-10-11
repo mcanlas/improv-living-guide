@@ -2,6 +2,10 @@
 
 The great Katy Berry once said... improvised hip-hop is the new frontier for musical improvisors. 
 
+## Thinking
+
+Thinking of your rap more as a structured poem rather than as a story of unlimited words. This helps combat rambling or missing the beat.
+
 ## Exercises
 
 ### Cypher
