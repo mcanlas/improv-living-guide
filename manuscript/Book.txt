@@ -11,6 +11,7 @@ exercises.md
 mechanics.md
 narrative.md
 forms.md
+openings.md
 musical-improv.md
 musical-exercises.md
 hip-hop.md
