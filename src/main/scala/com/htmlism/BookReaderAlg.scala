@@ -1,6 +1,5 @@
 package com.htmlism
 
-import better.files.Dsl._
 import cats.effect._
 import cats.implicits._
 
@@ -11,7 +10,7 @@ trait BookReaderAlg[F[_]] {
 object BookReaderAlg {
   private val titlePattern = """# (.*)""".r
 
-  def apply[F[_]](implicit F: Sync[F]): BookReaderAlg[F] =
+  def apply[F[_]](reader: ReaderAlg[F])(implicit F: Sync[F]): BookReaderAlg[F] =
     new BookReaderAlg[F] {
       def readChapterHeadings: F[List[(String, String)]] =
         for {
@@ -26,18 +25,10 @@ object BookReaderAlg {
           .map(t => (t, f))
 
       private def findChapters =
-        F.delay {
-          val file = cwd / "manuscript" / "Book.txt"
-
-          file.lines.toList
-        }
+        reader.lines("manuscript", "Book.txt")
 
       private def readChapter(s: String) =
-        F.delay {
-          val file = cwd / "manuscript" / s
-
-          file.lines.toList
-        }
+        reader.lines("manuscript", s)
     }
 
   private def findTitleLine(xs: List[String]): String =

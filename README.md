@@ -16,6 +16,7 @@ An open source book about improvised comedy and musical improv
 * [Mechanics](manuscript/mechanics.md)
 * [Narrative](manuscript/narrative.md)
 * [Forms](manuscript/forms.md)
+* [Openings](manuscript/openings.md)
 * [Musical Improv](manuscript/musical-improv.md)
 * [Musical Exercises](manuscript/musical-exercises.md)
 * [Hip-hop](manuscript/hip-hop.md)

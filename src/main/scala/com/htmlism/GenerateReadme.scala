@@ -12,7 +12,7 @@ object GenerateReadme extends IOApp {
     runSync[IO]
 
   private def runSync[F[_]: Sync] =
-    program[F](BookReaderAlg[F], ReadmeWriterAlg[F])
+    program[F](BookReaderAlg[F](new BetterFilesReaderWriter[F]), ReadmeWriterAlg[F])
 
   private def program[F[_]: Monad](book: BookReaderAlg[F], readme: ReadmeWriterAlg[F]): F[ExitCode] =
     for {
