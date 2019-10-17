@@ -1,5 +1,6 @@
 package com.htmlism
 
+import cats._
 import cats.effect._
 import cats.implicits._
 
@@ -8,13 +9,13 @@ import cats.implicits._
  */
 object GenerateReadme extends IOApp {
   def run(args: List[String]): IO[ExitCode] =
-    program[IO]
+    runSync[IO]
 
-  def program[F[_]: Sync]: F[ExitCode] =
+  private def runSync[F[_]: Sync] =
+    program[F](BookReaderAlg[F], ReadmeWriterAlg[F])
+
+  private def program[F[_]: Monad](book: BookReaderAlg[F], readme: ReadmeWriterAlg[F]): F[ExitCode] =
     for {
-      book <- BookReaderAlg[F].pure[F]
-      readme <- ReadmeWriterAlg[F].pure[F]
-
       toc <- book.readChapterHeadings
       _ <- readme.write(toc)
     } yield ExitCode.Success
