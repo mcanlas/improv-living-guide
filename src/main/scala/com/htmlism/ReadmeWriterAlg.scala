@@ -2,6 +2,7 @@ package com.htmlism
 
 import cats.effect._
 import cats.implicits._
+import mouse.any._
 
 trait ReadmeWriterAlg[F[_]] {
   def write(xs: List[(String, String)]): F[Unit]
@@ -18,16 +19,11 @@ object ReadmeWriterAlg {
           (writer.write(file) _).compose(toPayload(toc))
     }
 
-  private def toPayload(toc: List[(String, String)])(readme: List[String]) = {
-    val newToc =
-      toc.map((format _).tupled)
-
-    val newReadmeLines =
-      keepUpToChapter(readme)._1 ::: newToc
-
-    (newReadmeLines :+ "")
+  private def toPayload(toc: List[(String, String)])(readme: List[String]) =
+    (toc |>
+      (_.map((format _).tupled)) |>
+      (xs => keepUpToChapter(readme)._1 ::: xs ::: List("")))
       .mkString("\n")
-  }
 
   private def format(title: String, file: String): String =
     s"* [$title](manuscript/$file)"
