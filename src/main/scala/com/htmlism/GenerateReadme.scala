@@ -15,7 +15,7 @@ object GenerateReadme extends IOApp {
       rw <- new BetterFilesReaderWriter[F].pure[F]
 
       book <- BookReaderAlg[F](rw).pure[F]
-      readme <- ReadmeWriterAlg[F].pure[F]
+      readme <- ReadmeWriterAlg[F](rw, rw).pure[F]
 
       toc <- book.readChapterHeadings
       _ <- readme.write(toc)

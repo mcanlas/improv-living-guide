@@ -1,6 +1,5 @@
 package com.htmlism
 
-import better.files.Dsl._
 import cats.effect._
 import cats.implicits._
 
@@ -10,13 +9,13 @@ trait ReadmeWriterAlg[F[_]] {
 
 object ReadmeWriterAlg {
   private lazy val file =
-    cwd / "README.md"
+    "README.md"
 
-  def apply[F[_]](implicit F: Sync[F]): ReadmeWriterAlg[F] =
+  def apply[F[_]](reader: ReaderAlg[F], writer: WriterAlg[F])(implicit F: Sync[F]): ReadmeWriterAlg[F] =
     new ReadmeWriterAlg[F] {
       def write(toc: List[(String, String)]): F[Unit] =
         (for {
-          readme <- read
+          readme <- reader.lines(file)
         } yield {
           val newToc =
             toc.map((format _).tupled)
@@ -28,14 +27,9 @@ object ReadmeWriterAlg {
             (newReadmeLines :+ "")
               .mkString("\n")
 
-          file
-            .write(payload)
+          writer
+            .write(file)(payload)
         }).void
-
-      private def read =
-        F.delay {
-          file.lines.toList
-        }
     }
 
   private def format(title: String, file: String): String =
