@@ -1,3 +1,8 @@
+---
+layout: docs
+title: Common Mistakes
+---
+
 # Common Mistakes
 
 Here's a collection of behaviors one is likely to see with newer improvisors. If they happen with more experienced improvisors, I think it's a crime they weren't coached out of these behaviors.

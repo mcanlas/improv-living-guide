@@ -1,3 +1,8 @@
+---
+layout: docs
+title: Diversity
+---
+
 # Diversity
 
 ## Type-casting

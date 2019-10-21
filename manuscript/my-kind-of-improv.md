@@ -1,3 +1,8 @@
+---
+layout: docs
+title: My Kind of Improv
+---
+
 # My Kind of Improv
 
 A Magnet teacher once lamented, someone saying "I'm not into improv" is like saying "I'm not into television". It's weird to write off an entire medium. But I guess the problem stems from lack of exposure to different kinds of improv. Here are some aspects that really resonate with me.

@@ -1,3 +1,8 @@
+---
+layout: docs
+title: Initiations
+---
+
 # Initiations
 
 ## Organic

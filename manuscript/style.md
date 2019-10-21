@@ -1,3 +1,8 @@
+---
+layout: docs
+title: Style
+---
+
 # Style
 
 ## TJ and Dave

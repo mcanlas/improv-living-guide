@@ -1,3 +1,8 @@
+---
+layout: docs
+title: Introduction
+---
+
 # Introduction
 
 As a student of improv, I can't help but notice the abundance of knowledge passed around the improv community. Most of it never gets written down, or when it does it remains in one student's notebook never to been seen again.

@@ -1,3 +1,8 @@
+---
+layout: docs
+title: General tips
+---
+
 # General tips
 
 I notice a lot of the same behavior and situations among more novice improvisors.

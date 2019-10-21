@@ -1,3 +1,8 @@
+---
+layout: docs
+title: Teaching
+---
+
 # Teaching
 
 Having taking a variety of classes with many different teachers, I think I've zoned in on a style that resonates with me more than others. 

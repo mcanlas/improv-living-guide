@@ -1,3 +1,8 @@
+---
+layout: docs
+title: Improv
+---
+
 # Improv
 
 Improv that feels hard to do as a performer will feel hard to watch by the audience.

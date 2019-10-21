@@ -1,3 +1,8 @@
+---
+layout: docs
+title: Openings
+---
+
 # Openings
 
 ## Pattern game

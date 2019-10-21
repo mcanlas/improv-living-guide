@@ -36,7 +36,7 @@ object BookReaderAlg {
       .filter(_.startsWith("# "))
       .head
 
-  private def isolateTitle(s: String): String =
+  def isolateTitle(s: String): String =
     s match {
       case titlePattern(title) => title
     }

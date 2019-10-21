@@ -1,3 +1,8 @@
+---
+layout: docs
+title: Warm-ups
+---
+
 # Warm-ups
 
 ## Crazy 8s

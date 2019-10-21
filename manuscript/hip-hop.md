@@ -1,3 +1,8 @@
+---
+layout: docs
+title: Hip-hop
+---
+
 # Hip-hop
 
 The great Katy Berry once said... improvised hip-hop is the new frontier for musical improvisors. 

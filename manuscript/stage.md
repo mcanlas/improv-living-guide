@@ -1,3 +1,8 @@
+---
+layout: docs
+title: Stage
+---
+
 # Stage
 
 ## Setting chairs

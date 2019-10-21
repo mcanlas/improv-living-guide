@@ -1,3 +1,8 @@
+---
+layout: docs
+title: Relationships
+---
+
 # Relationships
 
 The defining characteristic of improv at the Magnet seems to be its focus on relationships as the driver for game. I think focusing on relationships is the better move when teaching improvisors. People tend to get really in their head about game causing their moves to be less present and less earned.

@@ -1,3 +1,8 @@
+---
+layout: docs
+title: Favorite Shows
+---
+
 # Favorite Shows
 
 Here are some my favorite shows in the city. Spoiler alert, they're all at the Magnet Theater!

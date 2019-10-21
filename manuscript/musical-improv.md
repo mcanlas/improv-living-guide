@@ -1,3 +1,8 @@
+---
+layout: docs
+title: Musical Improv
+---
+
 # Musical Improv
 
 ## Fear

@@ -1,3 +1,8 @@
+---
+layout: docs
+title: Mechanics
+---
+
 # Mechanics
 
 ## Thought bubbles

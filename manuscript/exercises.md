@@ -1,3 +1,8 @@
+---
+layout: docs
+title: Exercises
+---
+
 # Exercises
 
 ## Pointies

@@ -1,3 +1,8 @@
+---
+layout: docs
+title: Listening
+---
+
 # Listening
 
 ## Non-verbal contributions

@@ -1,3 +1,8 @@
+---
+layout: docs
+title: Improv language
+---
+
 # Improv language
 
 Often times in improv, there are devices or tropes that have a much higher occurrence in improv than in real life.
