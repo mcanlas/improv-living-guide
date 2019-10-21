@@ -16,8 +16,10 @@ object GenerateReadme extends IOApp {
 
       book <- BookReaderAlg[F](rw).pure[F]
       readme <- ReadmeWriterAlg[F](rw, rw).pure[F]
+      microSiteMenu <- MicrositeMenuWriterAlg[F](rw).pure[F]
 
       toc <- book.readChapterHeadings
       _ <- readme.write(toc)
+      _ <- microSiteMenu.write(toc)
     } yield ExitCode.Success
 }
