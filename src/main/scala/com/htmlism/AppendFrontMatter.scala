@@ -14,17 +14,21 @@ object AppendFrontMatter extends IOApp {
   private def program[F[_]: Sync]: F[ExitCode] =
     for {
       rw <- new BetterFilesReaderWriter[F].pure[F]
+      alg <- new AppendFrontMatterAlg(rw).pure[F]
+
       files <- rw.lines("manuscript", "Book.txt")
-      _ <- files.traverse(appendFrontMatter[F](rw))
+      _ <- files.traverse(alg.appendFrontMatter)
     } yield ExitCode.Success
+}
 
-  private def appendFrontMatter[F[_]: Monad](rw: BetterFilesReaderWriter[F])(f: String): F[Unit] =
-    contentsOf[F](rw, f) >>= maybeWrite(rw, f)
+class AppendFrontMatterAlg[F[_]: Sync](rw: BetterFilesReaderWriter[F]) {
+  def appendFrontMatter(f: String): F[Unit] =
+    contentsOf(f) >>= maybeWrite(f)
 
-  private def contentsOf[F[_]](rw: BetterFilesReaderWriter[F], f: String): F[List[String]] =
+  private def contentsOf(f: String) =
     rw.lines("manuscript", f)
 
-  private def maybeWrite[F[_]: Applicative](rw: BetterFilesReaderWriter[F], f: String)(contents: List[String]) = {
+  private def maybeWrite(f: String)(contents: List[String]) = {
     val title = BookReaderAlg.isolateTitle(contents.filter(_.startsWith("# ")).head)
     val hasFrontMatter = contents.exists(_.startsWith("---"))
 
@@ -39,5 +43,5 @@ object AppendFrontMatter extends IOApp {
   }
 
   private def toFileContents(xs: List[String]) =
-    (xs.mkString("\n")) + "\n"
+    xs.mkString("\n") + "\n"
 }
