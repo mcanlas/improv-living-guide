@@ -11,3 +11,6 @@ tutSourceDirectory := baseDirectory.value / "manuscript"
 micrositeUrl := "https://mcanlas.github.io"
 
 micrositeBaseUrl := "/improv-living-guide"
+
+micrositeGithubOwner := "mcanlas"
+micrositeGithubRepo := "imnprov-living-guide"
