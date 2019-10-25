@@ -1,5 +1,5 @@
 name: improv-living-guide
-baseurl: ''
+baseurl: /improv-living-guide
 description: improv-living-guide
 highlighter: rouge
 docs: true
