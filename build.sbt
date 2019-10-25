@@ -8,4 +8,6 @@ enablePlugins(MicrositesPlugin)
 
 tutSourceDirectory := baseDirectory.value / "manuscript"
 
-micrositeUrl := "https://mcanlas.github.io/improv-living-guide"
+micrositeUrl := "https://mcanlas.github.io"
+
+micrositeBaseUrl := "/improv-living-guide"
