@@ -5,11 +5,13 @@ title: Freestyle Love Supreme
 
 # Freestyle Love Supreme
 
-On Wednesday, January 8, 2019, I saw Freestyle Love Supreme during their last week of shows. No major guests other than the guest female beatbxoer.
+On Wednesday, January 8, 2019, I saw Freestyle Love Supreme during their last week of shows. No major guests other than the guest female beatboxer.
 
 ## Structure of show
 
 Our electronic devices were put in faraday bags for us to hold on to, so everything is from memory or are baseless assumptions.
+
+Most of the rap is not sung. But during the very structure-free musical improv sections, the lyrics can be sung and not even rhyme, to help provide texture or plot.
 
 ### Mic check
 
@@ -33,7 +35,7 @@ Gets faster and faster for difficulty. Maybe close on a reference to the first s
 
 Suggestions solicited from the audience with an MC (Two Touch). Rappers free to choose. MC rejects (or just scans more) politics, overly sexual content, etc
 
-One suggestion per rappper. Trappy beat. Two couplets, a drop, two more couplets. Per rapper.
+One suggestion per rapper. Trappy beat. Two couplets, a drop, two more couplets. Per rapper.
 
 Cycle around again, but one couplet only, drop, then couplet.
 
@@ -76,6 +78,8 @@ Each rapper raps a true story inspired by that word
 Between each rapper, chorus setter calls back chorus melodically but freestyles short jokes and commentary based on the previous rapper
 
 Ends organically on guest chorus
+
+If the rapper can sing (Aneesa), this is where more singing can be done.
 
 Demonstrated on previous FLS comedy project on YouTube
 
