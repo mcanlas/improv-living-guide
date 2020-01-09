@@ -26,6 +26,7 @@ An open source book about improvised comedy and musical improv
 * [New York City](manuscript/new-york-city.md)
 * [My Kind of Improv](manuscript/my-kind-of-improv.md)
 * [Favorite Shows](manuscript/favorite-shows.md)
+* [Freestyle Love Supreme](manuscript/freestyle-love-supreme.md)
 * [Memorable Scenes](manuscript/memorable-scenes.md)
 * [Musical Exercises](manuscript/musical-exercises.md)
 * [Diversity](manuscript/diversity.md)

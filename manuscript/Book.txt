@@ -21,6 +21,7 @@ general-tips.md
 new-york-city.md
 my-kind-of-improv.md
 favorite-shows.md
+freestyle-love-supreme.md
 memorable-scenes.md
 musical-exercises.md
 diversity.md
