@@ -18,3 +18,9 @@ I think this is less helpful when the scene does not call for differentiation (e
 ## Sound of a Harold
 
 Nick Kanellis compares the overall vibe of a Harold to different sonic textures, like musical instruments or cartoon character sounds. Also, the occurrence of game is akin to a song structure for each texture. Beats of games happen with regularity and have periods of rest, just like traditional music.
+
+## Everything is a gift
+
+Phoebe Tyers: Everything you do and your partner does is a gift. Not even explicit "gift" gifts. Could be used any time, though sometimes used to inject energy. Could be related or non-sequitor.
+
+Make it yours, make it matter (overheard randomly, context not necessarily about gifts)
