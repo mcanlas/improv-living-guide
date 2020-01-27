@@ -24,3 +24,7 @@ Nick Kanellis compares the overall vibe of a Harold to different sonic textures,
 Phoebe Tyers: Everything you do and your partner does is a gift. Not even explicit "gift" gifts. Could be used any time, though sometimes used to inject energy. Could be related or non-sequitor.
 
 Make it yours, make it matter (overheard randomly, context not necessarily about gifts)
+
+## Energy as a beachball
+
+Some scenes have a rhythm (e.g. from the game) and should be executed in tempo, like keeping a beach ball in the air. Prevent energy from dying out

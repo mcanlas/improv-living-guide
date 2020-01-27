@@ -8,6 +8,9 @@ position: 30
 
 The great Katy Berry once said... improvised hip-hop is the new frontier for musical improvisors. 
 
+- there are different muscles. e.g. more structured/planning/lily pad vs straight free flow
+- (no context) "repetition is the mother of learning" ?? (is supported by SRS theory)
+
 ## Thinking
 
 Thinking of your rap more as a structured poem rather than as a story of unlimited words. This helps combat rambling or missing the beat.
@@ -16,6 +19,10 @@ Thinking of your rap more as a structured poem rather than as a story of unlimit
 - think of rhyming less intellectually and more about the raw sounds made with your mouth (more flexible rhymes)
 
 ## Exercises
+
+### Hate/Love
+
+8 bars about something you feel passionately about
 
 ### Cypher
 
