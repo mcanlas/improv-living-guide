@@ -28,3 +28,7 @@ Make it yours, make it matter (overheard randomly, context not necessarily about
 ## Energy as a beachball
 
 Some scenes have a rhythm (e.g. from the game) and should be executed in tempo, like keeping a beach ball in the air. Prevent energy from dying out. E.g. "here's my deal" with an implicit invitation of "what's yours" to go around the circle
+
+## Intimacy
+
+Peter: the degree to which two people reveal their weaknesses to one another

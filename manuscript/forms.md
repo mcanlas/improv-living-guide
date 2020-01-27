@@ -46,3 +46,7 @@ As taught at Magnet's Level 5 Conservatory. Not to be confused with the expansio
 - suggestion is location that can fit on the stage
   - could be a more oblique interpretation e.g. library => back room of library
 - don't link back new people in the new entrances to existing things/problems with the first characters
+
+## JTS Brown
+
+Peter: Every scene exit is a new scene (from the current physical positions)

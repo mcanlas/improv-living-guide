@@ -36,6 +36,8 @@ Up to 3x per person. Then switch to another person. Topics can come from anywher
 
 ### Pull up
 
+Invented by Megan Reilly?
+
 - pull up x9, high energy
 - "i'm pullin up on the X"
 - could be AAAA rhyme
@@ -79,6 +81,17 @@ Person A's last word is Person B's first word. The rhymes are on both pairs.
 - Third random person, offer a vocal sound
 - Monologue as character
 - Beatboxer comes in, do 8 bars in character
+
+### Bounce back
+
+- "i'm say a line bounce back (bounce back!)"
+- definitely repeat yourself during bounce back
+- hand off is split between people e.g. ABBC (one person)
+
+### Onomoetoepeia
+- first line "X is, an onomotopoeia" (optional, but should be establishing line)
+- finish 8 bars
+- hook is "x, that's an onomotopeia"
 
 ## Forms
 
