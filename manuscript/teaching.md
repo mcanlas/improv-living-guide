@@ -17,3 +17,6 @@ In the same vein as "how vs what", a class that is more reps-oriented is likely 
 
 Regarding reps, I also think the strength of your improv is better measured in the amount of reps \(possibly frequency\) rather than "what level are you".
 
+## Your deal is a wheel
+
+From RaeRo about Brooklyn Comedy Collective: Your character's deal is the frame of a wagon wheel and contexts are the spokes coming out of the center. Your character can be put in any context.

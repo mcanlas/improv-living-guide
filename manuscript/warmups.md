@@ -22,3 +22,7 @@ Circle up, with a bit of space between. Someone initiate a repetitive sound and 
 ## Genre cauldron
 
 An idea-generating exercise useful for priming the group to think about genre-specific tropes. Typically used in musical formats. Coach shouts out a genre (e.g. country westerns, R&B songs) and everyone organically contributes things to the circle that they are thinking of in relation to the genre. Go in any order until the genre is tapped out or generation slows down.
+
+## 1, 2, 3, nailed it!
+
+One person is "it". Group counts, 1, 2, 3, with the it person making organic poses each count. Every else has matching energy. It person starts scenelette but everyone organicly participates with matching energy. When scenelette is over, everyone goes hands in and up and says "nailed it!"
