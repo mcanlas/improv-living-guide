@@ -26,3 +26,10 @@ An idea-generating exercise useful for priming the group to think about genre-sp
 ## 1, 2, 3, nailed it!
 
 One person is "it". Group counts, 1, 2, 3, with the it person making organic poses each count. Every else has matching energy. It person starts scenelette but everyone organicly participates with matching energy. When scenelette is over, everyone goes hands in and up and says "nailed it!"
+
+## Scenework
+
+- no suggestion: vague initiation to clarification
+- suggestion to banal initiation: clarify/contextualize with relationship (intense like mother/Batman)
+- suggestion to banal initiation: clarify/contextualize with location
+- pocket an emotion given coach: banal initiation to emotional response
