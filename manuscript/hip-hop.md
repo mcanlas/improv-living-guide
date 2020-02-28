@@ -20,6 +20,14 @@ Thinking of your rap more as a structured poem rather than as a story of unlimit
 
 ## Exercises
 
+### Beastie rap
+
+Circle up. Person drops an A line. Group reply with "da dada-da. dada dada da." Next person does one A line. Dada again, etc. Back to first person will also close with another A line. Next person drop a B line.
+
+Hard mode: drop the dadada's and go straight to the next person.
+
+Goals: set up your context so the room can guess your word
+
 ### Hate/Love
 
 8 bars about something you feel passionately about
