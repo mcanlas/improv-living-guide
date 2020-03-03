@@ -25,7 +25,7 @@ We shouldn't be subtle or nice unlike in real life. We need to pull the emotiona
 
 ## Bad patterns
 
-Using bombs like cancer or spaceships and reacting to them in an indifferent or jovial way.
+Using bombs like cancer, spaceships, or divorce and reacting to them in an indifferent or jovial way.
 
 ## Subtext
 
@@ -34,3 +34,17 @@ Answering a question that wasn't asked.
 > A: Hey, what do you think of this dress?
 >
 > B: She doesn't want to get back with you.
+
+## My exercises
+
+Practice the following phrases. Repeated emphatically until organic improv spills out.
+
+- "In this PLACE" e.g. in this library, in our home, in this classroom
+- "We are RELATIONSHIP", e.g. we are brothers, we are lovers, you are my teacher
+- "I feel X", e.g. I am mad at you, I am sad about
+- "Don't do X", invite other improvisor to do X more
+- "Are you X", invitation to say yes to gift
+
+Especially for "I feel", goal is to get comfortable using improv language that is not subtle, not coy.
+
+"Are you X" should be played as a "yes" but can be played with light/denial (ultimately is a YES to both improvisors)

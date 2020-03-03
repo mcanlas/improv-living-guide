@@ -33,4 +33,13 @@ Play out each row, first as a straight scene \(no comedy\), then again with the 
 | Standing over a father's open casket | Standing over a party sub that has been eaten |
 
 
+# My exercises
 
+## Repeat repeat
+
+Two person scene (whatever) but each actor repeats their line.
+
+Goals:
+- stick to the exact wording you use
+- use emphatic/non-verbal delivery
+- cast out short, repeatable gifts (prevent rambling)
