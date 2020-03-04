@@ -47,3 +47,7 @@ Goals:
 ## One word responses
 
 Initiator does normal dialog. Responder only reacts using one word from what was just say. Can include small words or phrasal, but don't get crazy.
+
+## Maximum stop
+
+Player one, ready to ramble and improvise non-stop about something. Player two, ready to interject with small things, possibly unrelated, like I need a tissue.

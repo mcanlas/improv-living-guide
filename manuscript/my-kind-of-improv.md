@@ -53,3 +53,6 @@ A good musical improv team is necessarily maintaining a high level of synchronic
 
 The "highlights" thread for musical improv is always much more boisterous and elaborate than the highlights thread for other nights.
 
+## Aggressive support, aggressive quiet/listening
+
+Always ready to ramble and contribute, but always ready to stop and listen
