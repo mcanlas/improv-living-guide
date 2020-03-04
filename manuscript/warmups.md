@@ -33,3 +33,9 @@ One person is "it". Group counts, 1, 2, 3, with the it person making organic pos
 - suggestion to banal initiation: clarify/contextualize with relationship (intense like mother/Batman)
 - suggestion to banal initiation: clarify/contextualize with location
 - pocket an emotion given coach: banal initiation to emotional response
+
+## One word stories
+
+Circle up. One word at a time, like fairy tale. Person can say PERIOD to end thought.
+
+Variant: SECRETS. Instead of "period", say "secrets" like oooOOooo.

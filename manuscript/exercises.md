@@ -43,3 +43,7 @@ Goals:
 - stick to the exact wording you use
 - use emphatic/non-verbal delivery
 - cast out short, repeatable gifts (prevent rambling)
+
+## One word responses
+
+Initiator does normal dialog. Responder only reacts using one word from what was just say. Can include small words or phrasal, but don't get crazy.
