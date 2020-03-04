@@ -51,3 +51,15 @@ Initiator does normal dialog. Responder only reacts using one word from what was
 ## Maximum stop
 
 Player one, ready to ramble and improvise non-stop about something. Player two, ready to interject with small things, possibly unrelated, like I need a tissue.
+
+Goals: do not keep going after someone has interrupted/tagged you.
+
+## Gift ping pong
+
+Player one give gift. Player two accept and ellaborate (ramble). Player two give gift.
+
+Goals: unrelated. No narrative, no world. Think expansive. Accept and generate.
+
+## Emotional reactions
+
+Player one confess. Player two emotionally react. Can be preloaded or organic.

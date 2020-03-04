@@ -44,7 +44,10 @@ Practice the following phrases. Repeated emphatically until organic improv spill
 - "I feel X", e.g. I am mad at you, I am sad about
 - "Don't do X", invite other improvisor to do X more
 - "Are you X", invitation to say yes to gift
+- "I don't want it" means give it to me
 
 Especially for "I feel", goal is to get comfortable using improv language that is not subtle, not coy.
 
 "Are you X" should be played as a "yes" but can be played with light/denial (ultimately is a YES to both improvisors)
+
+Likewise, being defensive about something ultimately means you lose. Let us see how you lose."
