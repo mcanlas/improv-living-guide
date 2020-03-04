@@ -58,7 +58,7 @@ Goals: do not keep going after someone has interrupted/tagged you.
 
 Player one give gift. Player two accept and ellaborate (ramble). Player two give gift.
 
-Goals: unrelated. No narrative, no world. Think expansive. Accept and generate.
+Goals: unrelated. No narrative, no world, no relationship. Think expansive. Accept and generate.
 
 ## Emotional reactions
 
