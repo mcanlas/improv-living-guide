@@ -66,4 +66,12 @@ Player one confess. Player two emotionally react. Can be preloaded or organic.
 
 ## Blind initiations
 
+From UCB 401
+
 Each side come up with an initation based on a suggestion. Both sides say them and have to retain as much true as possible.
+
+## Jedi mind trick
+
+From UCB 401
+
+One person improvises and the other person labels. "You are doing this right now." or "You feel like this" etc.
