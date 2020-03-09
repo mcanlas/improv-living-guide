@@ -131,3 +131,9 @@ Can split verses in group scenes
 - third vs can be normal heighten or absurd heighten
   - if absurd heighten, team steps in to cut beat and talk them off the ledge
   - then signal to drop last hook with beat
+
+## Opening
+
+### Documentary
+
+Team of five organically broken out into two pairs and a single. Vary stage "heights". One at a time do character pair monologue. Second beat a little faster. Third cycle drop beatbox and each raps. One person does a verse, one person does a hook. Single person does same length of bars as the pair. Trio everyone overlay.

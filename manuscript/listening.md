@@ -32,3 +32,11 @@ Some scenes have a rhythm (e.g. from the game) and should be executed in tempo, 
 ## Intimacy
 
 Peter: the degree to which two people reveal their weaknesses to one another
+
+## Absurdity
+
+Don't be so quick to call out absurdity if it is played real/normal.
+
+## No no yes
+
+Always give in (physically) even if in real life you wouldn't. Can still maintain POV.
