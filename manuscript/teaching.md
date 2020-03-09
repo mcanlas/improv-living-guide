@@ -20,3 +20,7 @@ Regarding reps, I also think the strength of your improv is better measured in t
 ## Your deal is a wheel
 
 From RaeRo about Brooklyn Comedy Collective: Your character's deal is the frame of a wagon wheel and contexts are the spokes coming out of the center. Your character can be put in any context.
+
+## Connections
+
+"Connections release tension and get laughs." Doug Widick

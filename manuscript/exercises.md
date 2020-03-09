@@ -63,3 +63,7 @@ Goals: unrelated. No narrative, no world, no relationship. Think expansive. Acce
 ## Emotional reactions
 
 Player one confess. Player two emotionally react. Can be preloaded or organic.
+
+## Blind initiations
+
+Each side come up with an initation based on a suggestion. Both sides say them and have to retain as much true as possible.

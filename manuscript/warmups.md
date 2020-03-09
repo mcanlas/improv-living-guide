@@ -39,3 +39,7 @@ One person is "it". Group counts, 1, 2, 3, with the it person making organic pos
 Circle up. One word at a time, like fairy tale. Person can say PERIOD to end thought.
 
 Variant: SECRETS. Instead of "period", say "secrets" like oooOOooo.
+
+## What a great wedding!
+
+Circle up. Primary person says they have a themed wedding. Everyone says "what a great wedding!" Each person pitches something apropos to that wedding. Then next primary person, etc.
