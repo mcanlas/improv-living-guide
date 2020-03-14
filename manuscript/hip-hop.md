@@ -6,7 +6,9 @@ position: 30
 
 # Hip-hop
 
-The great Katy Berry once said... improvised hip-hop is the new frontier for musical improvisors. 
+The great Katy Berry once said... improvised hip-hop is the new frontier for musical improvisors.
+
+Doug Widick: train that muscle. can't choose between hot and cold if the skill is only a dripping faucet 
 
 - there are different muscles. e.g. more structured/planning/lily pad vs straight free flow
 - (no context) "repetition is the mother of learning" ?? (is supported by SRS theory)
@@ -100,6 +102,12 @@ Person A's last word is Person B's first word. The rhymes are on both pairs.
 - first line "X is, an onomotopoeia" (optional, but should be establishing line)
 - finish 8 bars
 - hook is "x, that's an onomotopeia"
+
+### Rhythm first
+
+- establish a unique rhythmic pattern first
+- level zero: freestyle poetry to it, no rhyming
+- level one: rap to that pattern (four bars)
 
 ## Forms
 

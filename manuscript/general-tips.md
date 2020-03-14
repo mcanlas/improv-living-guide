@@ -47,3 +47,4 @@ Textbook musical trios usually have three distinct points of view. Sometimes tri
 
 - make it personal, make it matter
 - if you're going to go to crazy town, take the local
+- feed the wolf (doug widick) if there is a game installed, push that button; invest
