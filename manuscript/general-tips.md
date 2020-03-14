@@ -43,3 +43,7 @@ A lot of people get into verbal diarrhea when they panic. This tick can be parti
 
 Textbook musical trios usually have three distinct points of view. Sometimes trio-oriented scenes devolve into much longer, meandering scenes. If the improvisors know that the scene on deck is meant to be a trio \(as in the fairy tale narrative\), then the goal should be to establish three points of view as fast as possible.
 
+## Quips
+
+- make it personal, make it matter
+- if you're going to go to crazy town, take the local

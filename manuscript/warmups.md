@@ -43,3 +43,30 @@ Variant: SECRETS. Instead of "period", say "secrets" like oooOOooo.
 ## What a great wedding!
 
 Circle up. Primary person says they have a themed wedding. Everyone says "what a great wedding!" Each person pitches something apropos to that wedding. Then next primary person, etc.
+
+## Knife throw
+
+- encircle
+- someone mime throwing a knife to someone
+- recipient mimes catching the knife between their hands (e.g. with a clap)
+- recipient becomes the thrower; repeat
+- level 2: you catch for the person on your left. e.g. if they are attacked, you must catch their knife. and you are the thrower.
+
+## Zombies
+
+- encircle, with one person in the middle as the "slow zombie"
+- initially, pick any target to walk slowly towards, to tag
+- victim needs to make eye contact with someone in the circle
+- that someone needs to shout out a name of someone else
+- zombie must slow walk to the target that is shouted out
+- person becomes zombie if a) tagged by zombie b) not following rules (e.g. target shouts improperly)
+- levels: requirement for commnicating name becoming more complex (e.g. whisper to someone else for them to shout)
+
+## Group reaction
+
+- encircle, one person in the middle
+- person in the middle makes neutral, un-loaded statement
+- circle reacts cohesively to it (like all like or all hate, etc)
+- middle person continues with another statement (slightly narrative?)
+- circle heightens their group reaction.
+- repeat until climax (4 ish reactions?) 
