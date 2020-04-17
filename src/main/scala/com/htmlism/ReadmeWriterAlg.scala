@@ -29,15 +29,15 @@ object ReadmeWriterAlg {
     s"* [$title](manuscript/$file)"
 
   private def keepUpToChapter(xs: List[String]) =
-    xs
-      .foldLeft(List[String]() -> false) { case ((acc, afterChapter), e) =>
-        if (afterChapter)
-          acc -> afterChapter
-        else {
-          val newStatus =
-            e.contains("Chapters") || afterChapter
+    xs.foldLeft(List[String]() -> false) {
+        case ((acc, afterChapter), e) =>
+          if (afterChapter)
+            acc -> afterChapter
+          else {
+            val newStatus =
+              e.contains("Chapters") || afterChapter
 
-          (acc :+ e) -> newStatus
-        }
+            (acc :+ e) -> newStatus
+          }
       }
 }

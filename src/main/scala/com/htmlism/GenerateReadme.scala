@@ -4,8 +4,8 @@ import cats.effect._
 import cats.implicits._
 
 /**
- * Regenerates the `README.md` file based on the manuscript so that the GitHub view is synchronized with the book.
- */
+  * Regenerates the `README.md` file based on the manuscript so that the GitHub view is synchronized with the book.
+  */
 object GenerateReadme extends IOApp {
   def run(args: List[String]): IO[ExitCode] =
     program[IO]
@@ -14,12 +14,12 @@ object GenerateReadme extends IOApp {
     for {
       rw <- new BetterFilesReaderWriter[F].pure[F]
 
-      book <- BookReaderAlg[F](rw).pure[F]
-      readme <- ReadmeWriterAlg[F](rw, rw).pure[F]
+      book          <- BookReaderAlg[F](rw).pure[F]
+      readme        <- ReadmeWriterAlg[F](rw, rw).pure[F]
       microSiteMenu <- MicrositeMenuWriterAlg[F](rw).pure[F]
 
       toc <- book.readChapterHeadings
-      _ <- readme.write(toc)
-      _ <- microSiteMenu.write(toc)
+      _   <- readme.write(toc)
+      _   <- microSiteMenu.write(toc)
     } yield ExitCode.Success
 }
