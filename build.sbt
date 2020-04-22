@@ -1,7 +1,7 @@
 scalaVersion := "2.13.1"
 
 libraryDependencies += "org.typelevel" %% "cats-effect" % "2.1.3"
-libraryDependencies += "org.typelevel" %% "mouse"       % "0.24"
+libraryDependencies += "org.typelevel" %% "mouse"       % "0.25"
 libraryDependencies += "com.github.pathikrit" %% "better-files" % "3.8.0"
 
 enablePlugins(MicrositesPlugin)
