@@ -32,8 +32,7 @@ object BookReaderAlg {
     }
 
   private def findTitleLine(xs: List[String]): String =
-    xs.filter(_.startsWith("# "))
-      .head
+    xs.filter(_.startsWith("# ")).head
 
   def isolateTitle(s: String): String =
     s match {
