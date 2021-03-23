@@ -1,6 +1,6 @@
 scalaVersion := "2.13.5"
 
-libraryDependencies += "org.typelevel"        %% "cats-effect"  % "3.0.0-RC1"
+libraryDependencies += "org.typelevel"        %% "cats-effect"  % "3.0.0-RC3"
 libraryDependencies += "org.typelevel"        %% "mouse"        % "0.25"
 libraryDependencies += "com.github.pathikrit" %% "better-files" % "3.9.1"
 
