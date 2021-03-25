@@ -36,6 +36,10 @@ object BookReaderAlg {
 
   def isolateTitle(s: String): String =
     s match {
-      case titlePattern(title) => title
+      case titlePattern(title) =>
+        title
+
+      case _ =>
+        throw new IllegalStateException
     }
 }
