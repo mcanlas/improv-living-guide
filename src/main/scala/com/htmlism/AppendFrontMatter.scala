@@ -7,18 +7,18 @@ import cats.implicits._
 /**
   * Regenerates the `README.md` file based on the manuscript so that the GitHub view is synchronized with the book.
   */
-object AppendFrontMatter extends IOApp {
-  def run(args: List[String]): IO[ExitCode] =
+object AppendFrontMatter extends IOApp.Simple {
+  def run: IO[Unit] =
     program[IO]
 
-  private def program[F[_]: Sync]: F[ExitCode] =
+  private def program[F[_]: Sync] =
     for {
       rw  <- new BetterFilesReaderWriter[F].pure[F]
       alg <- new AppendFrontMatterAlg(rw).pure[F]
 
       files <- rw.lines("manuscript", "Book.txt")
       _     <- files.traverse(alg.appendFrontMatter)
-    } yield ExitCode.Success
+    } yield ()
 }
 
 class AppendFrontMatterAlg[F[_]: Sync](rw: BetterFilesReaderWriter[F]) {
