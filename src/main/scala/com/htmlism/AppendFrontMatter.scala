@@ -13,11 +13,11 @@ object AppendFrontMatter extends IOApp.Simple {
 
   private def program[F[_]: Sync] =
     for {
-      rw  <- new BetterFilesReaderWriter[F].pure[F]
+      rw <- new BetterFilesReaderWriter[F].pure[F]
       alg <- new AppendFrontMatterAlg(rw).pure[F]
 
       files <- rw.lines("manuscript", "Book.txt")
-      _     <- files.traverse(alg.appendFrontMatter)
+      _ <- files.traverse(alg.appendFrontMatter)
     } yield ()
 }
 
@@ -29,7 +29,7 @@ class AppendFrontMatterAlg[F[_]: Sync](rw: BetterFilesReaderWriter[F]) {
     rw.lines("manuscript", f)
 
   private def maybeWrite(f: String)(contents: List[String]) = {
-    val title          = BookReaderAlg.isolateTitle(contents.filter(_.startsWith("# ")).head)
+    val title = BookReaderAlg.isolateTitle(contents.filter(_.startsWith("# ")).head)
     val hasFrontMatter = contents.exists(_.startsWith("---"))
 
     if (hasFrontMatter)
