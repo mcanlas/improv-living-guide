@@ -1,6 +1,6 @@
 scalaVersion := "2.13.6"
 
-libraryDependencies += "org.typelevel"        %% "cats-effect"  % "3.2.7"
+libraryDependencies += "org.typelevel"        %% "cats-effect"  % "3.2.9"
 libraryDependencies += "com.github.pathikrit" %% "better-files" % "3.9.1"
 
 enablePlugins(MicrositesPlugin)
