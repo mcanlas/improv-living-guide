@@ -1,4 +1,4 @@
-scalaVersion := "2.13.6"
+scalaVersion := "2.13.7"
 
 libraryDependencies += "org.typelevel"        %% "cats-effect"  % "3.2.9"
 libraryDependencies += "com.github.pathikrit" %% "better-files" % "3.9.1"
