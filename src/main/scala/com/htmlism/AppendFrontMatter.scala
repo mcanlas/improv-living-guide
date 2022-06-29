@@ -2,7 +2,7 @@ package com.htmlism
 
 import cats._
 import cats.effect._
-import cats.implicits._
+import cats.syntax.all._
 
 /**
   * Regenerates the `README.md` file based on the manuscript so that the GitHub view is synchronized with the book.

@@ -1,7 +1,7 @@
 package com.htmlism
 
 import cats.effect._
-import cats.implicits._
+import cats.syntax.all._
 
 trait BookReaderAlg[F[_]] {
   def readChapterHeadings: F[List[(String, String)]]
