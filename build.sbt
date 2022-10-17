@@ -19,8 +19,6 @@ micrositeDocumentationLabelDescription := "Read the book"
 
 micrositeAuthor := "Mark Canlas"
 
-scalafmtOnCompile := true
-
 resolvers -= ("tpolecat" at "http://dl.bintray.com/tpolecat/maven")
 
 resolvers += ("tpolecat" at "http://dl.bintray.com/tpolecat/maven").withAllowInsecureProtocol(true)
