@@ -5,7 +5,7 @@ libraryDependencies += "com.github.pathikrit" %% "better-files" % "3.9.1"
 
 enablePlugins(MicrositesPlugin)
 
-tutSourceDirectory := baseDirectory.value / "manuscript"
+mdocIn := baseDirectory.value / "manuscript"
 
 micrositeUrl := "https://mcanlas.github.io"
 
