@@ -12,9 +12,9 @@ micrositeUrl := "https://mcanlas.github.io"
 micrositeBaseUrl := "/improv-living-guide"
 
 micrositeGithubOwner := "mcanlas"
-micrositeGithubRepo := "improv-living-guide"
+micrositeGithubRepo  := "improv-living-guide"
 
-micrositeDocumentationUrl := "introduction.html"
+micrositeDocumentationUrl              := "introduction.html"
 micrositeDocumentationLabelDescription := "Read the book"
 
 micrositeAuthor := "Mark Canlas"

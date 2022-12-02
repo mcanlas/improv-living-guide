@@ -14,12 +14,12 @@ object GenerateReadme extends IOApp.Simple {
     for {
       rw <- new BetterFilesReaderWriter[F].pure[F]
 
-      book <- BookReaderAlg[F](rw).pure[F]
-      readme <- ReadmeWriterAlg[F](rw, rw).pure[F]
+      book          <- BookReaderAlg[F](rw).pure[F]
+      readme        <- ReadmeWriterAlg[F](rw, rw).pure[F]
       microSiteMenu <- MicrositeMenuWriterAlg[F](rw).pure[F]
 
       toc <- book.readChapterHeadings
-      _ <- readme.write(toc)
-      _ <- microSiteMenu.write(toc)
+      _   <- readme.write(toc)
+      _   <- microSiteMenu.write(toc)
     } yield ()
 }
