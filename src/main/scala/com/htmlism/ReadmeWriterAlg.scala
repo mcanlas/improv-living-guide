@@ -1,7 +1,7 @@
 package com.htmlism
 
-import cats.effect._
-import cats.syntax.all._
+import cats.effect.*
+import cats.syntax.all.*
 
 trait ReadmeWriterAlg[F[_]] {
   def write(xs: List[(String, String)]): F[Unit]

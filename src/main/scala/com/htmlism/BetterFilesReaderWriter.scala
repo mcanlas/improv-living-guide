@@ -1,8 +1,8 @@
 package com.htmlism
 
-import better.files.Dsl._
-import cats.effect._
-import cats.syntax.all._
+import better.files.Dsl.*
+import cats.effect.*
+import cats.syntax.all.*
 
 class BetterFilesReaderWriter[F[_]](implicit F: Sync[F]) extends ReaderAlg[F] with WriterAlg[F] {
   def lines(parts: String*): F[List[String]] =
