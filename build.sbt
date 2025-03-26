@@ -1,4 +1,4 @@
-libraryDependencies += "org.typelevel"        %% "cats-effect"  % "3.6.0-RC2"
+libraryDependencies += "org.typelevel"        %% "cats-effect"  % "3.6.0"
 libraryDependencies += "com.github.pathikrit" %% "better-files" % "3.9.2"
 
 enablePlugins(MicrositesPlugin)
