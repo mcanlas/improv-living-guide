@@ -21,26 +21,34 @@ object AppendFrontMatter extends IOApp.Simple {
     } yield ()
 }
 
-class AppendFrontMatterAlg[F[_]: Sync](rw: BetterFilesReaderWriter[F]) {
+class AppendFrontMatterAlg[F[_]](rw: BetterFilesReaderWriter[F])(implicit F: Sync[F]) {
   def appendFrontMatter(fileName: String): F[Unit] =
     readContentsOf(fileName) >>= assertWriteFrontMatter(fileName)
 
   private def readContentsOf(fileName: String) =
     rw.lines("manuscript", fileName)
 
-  private def assertWriteFrontMatter(fileName: String)(contents: List[String]) = {
-    val title          = BookReaderAlg.isolateTitle(contents.filter(_.startsWith("# ")).head)
-    val hasFrontMatter = contents.exists(_.startsWith("---"))
+  private def assertWriteFrontMatter(fileName: String)(contents: List[String]) =
+    for {
+      title <- F
+        .fromOption(
+          contents.find(_.startsWith("# ")),
+          new IllegalStateException(s"Could not find title in $fileName")
+        )
+        .map(BookReaderAlg.isolateTitle)
 
-    if (hasFrontMatter)
-      Applicative[F].unit
-    else
-      rw.write("manuscript", fileName) {
-        toFileContents {
-          List("---", "layout: docs", s"title: $title", "---", "") ::: contents
-        }
-      }
-  }
+      hasFrontMatter = contents.exists(_.startsWith("---"))
+
+      _ <-
+        if (hasFrontMatter)
+          Applicative[F].unit
+        else
+          rw.write("manuscript", fileName) {
+            toFileContents {
+              List("---", "layout: docs", s"title: $title", "---", "") ::: contents
+            }
+          }
+    } yield ()
 
   private def toFileContents(xs: List[String]) =
     xs.mkString("\n") + "\n"
