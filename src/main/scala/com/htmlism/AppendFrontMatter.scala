@@ -22,20 +22,20 @@ object AppendFrontMatter extends IOApp.Simple {
 }
 
 class AppendFrontMatterAlg[F[_]: Sync](rw: BetterFilesReaderWriter[F]) {
-  def appendFrontMatter(f: String): F[Unit] =
-    contentsOf(f) >>= maybeWrite(f)
+  def appendFrontMatter(fileName: String): F[Unit] =
+    readContentsOf(fileName) >>= assertWriteFrontMatter(fileName)
 
-  private def contentsOf(f: String) =
-    rw.lines("manuscript", f)
+  private def readContentsOf(fileName: String) =
+    rw.lines("manuscript", fileName)
 
-  private def maybeWrite(f: String)(contents: List[String]) = {
+  private def assertWriteFrontMatter(fileName: String)(contents: List[String]) = {
     val title          = BookReaderAlg.isolateTitle(contents.filter(_.startsWith("# ")).head)
     val hasFrontMatter = contents.exists(_.startsWith("---"))
 
     if (hasFrontMatter)
       Applicative[F].unit
     else
-      rw.write("manuscript", f) {
+      rw.write("manuscript", fileName) {
         toFileContents {
           List("---", "layout: docs", s"title: $title", "---", "") ::: contents
         }

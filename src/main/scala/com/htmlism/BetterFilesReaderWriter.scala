@@ -9,8 +9,8 @@ class BetterFilesReaderWriter[F[_]](implicit F: Sync[F]) extends ReaderAlg[F] wi
     (file(parts) >>= lines)
       .map(_.toList)
 
-  def write(parts: String*)(s: String): F[Unit] =
-    file(parts) >>= write(s)
+  def write(pathParts: String*)(body: String): F[Unit] =
+    file(pathParts) >>= write(body)
 
   private def file(parts: Seq[String]) =
     F.delay {
@@ -22,8 +22,8 @@ class BetterFilesReaderWriter[F[_]](implicit F: Sync[F]) extends ReaderAlg[F] wi
       file.lines()
     }
 
-  private def write(s: String)(file: better.files.File) =
+  private def write(body: String)(file: better.files.File) =
     F.delay {
-      file.write(s)
+      file.write(body)
     }.void
 }
