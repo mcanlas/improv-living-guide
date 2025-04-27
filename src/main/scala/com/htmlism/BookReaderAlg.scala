@@ -21,6 +21,7 @@ object BookReaderAlg {
       private def withTitle(f: String) =
         readChapter(f)
           .map(findTitleLine)
+          .flatMap(F.fromOption(_, new IllegalStateException(s"Could not find title in $f")))
           .map(isolateTitle)
           .map(t => (t, f))
 
@@ -31,8 +32,8 @@ object BookReaderAlg {
         reader.lines("manuscript", s)
     }
 
-  private def findTitleLine(xs: List[String]): String =
-    xs.filter(_.startsWith("# ")).head
+  private def findTitleLine(xs: List[String]) =
+    xs.find(_.startsWith("# "))
 
   def isolateTitle(s: String): String =
     s match {
