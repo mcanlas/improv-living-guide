@@ -34,7 +34,7 @@ class AppendFrontMatterAlg[F[_]](rw: BetterFilesReaderWriter[F])(implicit F: Syn
           contents.find(_.startsWith("# ")),
           new IllegalStateException(s"Could not find title in $fileName")
         )
-        .map(BookReaderAlg.isolateTitle)
+        .flatMap(BookReaderAlg.isolateTitle[F])
 
       hasFrontMatter = contents.exists(_.startsWith("---"))
 

@@ -1,5 +1,6 @@
 package com.htmlism
 
+import cats.*
 import cats.effect.*
 import cats.syntax.all.*
 
@@ -22,7 +23,7 @@ object BookReaderAlg {
         readChapter(f)
           .map(findTitleLine)
           .flatMap(F.fromOption(_, new IllegalStateException(s"Could not find title in $f")))
-          .map(isolateTitle)
+          .flatMap(isolateTitle[F])
           .map(t => (t, f))
 
       private def findChapters =
@@ -35,12 +36,12 @@ object BookReaderAlg {
   private def findTitleLine(xs: List[String]) =
     xs.find(_.startsWith("# "))
 
-  def isolateTitle(s: String): String =
+  def isolateTitle[F[_]](s: String)(implicit F: ApplicativeThrow[F]): F[String] =
     s match {
       case titlePattern(title) =>
-        title
+        title.pure
 
       case _ =>
-        throw new IllegalStateException
+        F.raiseError(new IllegalStateException)
     }
 }
