@@ -1,6 +1,5 @@
 package com.htmlism
 
-import cats.*
 import cats.effect.*
 import cats.syntax.all.*
 
@@ -41,7 +40,7 @@ class AppendFrontMatterAlg[F[_]](rw: BetterFilesReaderWriter[F])(implicit F: Syn
 
       _ <-
         if (hasFrontMatter)
-          Applicative[F].unit
+          F.unit
         else
           rw.write("manuscript", fileName) {
             toFileContents {
